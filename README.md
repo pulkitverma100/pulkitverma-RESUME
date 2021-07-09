@@ -1,6 +1,6 @@
 - 👋 Hello Everyone...!! 🙋🏻‍♂️ This is Pulkit Verma ✨
 - 👀 I’m a self taught programmer and developer. I am a Full Stack Web-Developer | Student at ABESIT | HTML , CSS , JavaScript , PHP , MySQL , NodeJs and Responsive Web Design..✨
-- 🔭  currently working on a project for Duck Hunt Game and Prevention of  Dementia.🤓
+<!-- - 🔭  currently working on a project for Duck Hunt Game and Prevention of  Dementia.🤓 -->
 - 🌱 I’m currently learning Kotlin 👨🏻‍💻
 - 💬 Ask me anything about HTML , CSS , Java SE
 - 👯 I’m looking to collaborate on Java projects.☕
